@@ -8,7 +8,7 @@ tmux isn't just for running tasks in servers detached from a session.
 It can also be a nice tool to have as a developer
 
 ## Terminal multiplexing can look good `>^.^<`
-![](https://i.imgur.com/AA9qTDI.png)
+![](https://github.com/LeonardoManzella/tmux-config/blob/master/tmux-image.png?raw=true)
 
 
 ## Installation
